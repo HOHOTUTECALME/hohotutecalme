@@ -10,8 +10,6 @@
 
 Débutant développement de bot discord
 
-j'ai commencer <t:1612711560:f>
-
 ### mais project : 
 
 <a href="https://top.gg/bot/988187367653400586">
