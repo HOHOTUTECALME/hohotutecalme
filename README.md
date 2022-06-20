@@ -1,5 +1,15 @@
-### Hi there 👋
+## Information 
 
+Débutant développement de bot discord
+
+### mais project : 
+<a href="https://top.gg/bot/988187367653400586">
+  <img src="https://top.gg/api/widget/988187367653400586.svg">
+</a>
+
+<a href="https://top.gg/bot/975871008487637092">
+  <img src="https://top.gg/api/widget/975871008487637092.svg">
+</a>
 <!--
 **HOHOTUTECALME/hohotutecalme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
