@@ -3,7 +3,9 @@
 </a>
 <a href="https://top.gg/bot/988187367653400586">
   <img src="https://top.gg/api/widget/owner/988187367653400586.svg">
-</a>\n
+</a>
+
+
 ## Information 
 
 Débutant développement de bot discord
